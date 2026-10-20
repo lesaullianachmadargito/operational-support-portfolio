@@ -1,0 +1,7 @@
+document_id,title,revision,owner,status,review_due,approval_reference
+DOC-01,Office material recording SOP,0.1,Ops PIC,Draft,2026-10-20,
+DOC-02,Material entry work instruction,0.2,Admin PIC,In review,2026-10-19,
+DOC-03,Material request form,1.0,Admin PIC,Approved,2026-10-27,SIM-APP-03
+DOC-04,Old request form,0.9,Admin PIC,Superseded,2026-10-15,
+DOC-05,Weekly action summary,0.3,Ops PIC,In review,2026-10-20,
+DOC-06,Monthly material summary,0.1,Ops PIC,In review,,

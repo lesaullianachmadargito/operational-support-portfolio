@@ -1,0 +1,5 @@
+action_id,action,owner,due,status,completed
+ACT-01,Reconcile marker issue entry,Store PIC,2026-10-19,Open,
+ACT-02,Confirm missing opening balance,Admin PIC,2026-10-20,Open,
+ACT-03,Review instruction revision,Ops PIC,2026-10-22,Open,
+ACT-04,Record request-form reference,Admin PIC,2026-10-19,Done,2026-10-19
